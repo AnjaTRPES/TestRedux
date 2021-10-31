@@ -1,0 +1,4 @@
+export const COUNTER_CHANGE = 'COUNTER_CHANGE'
+export const INCREMENT = 'INCREMENT'
+export const TEXTCHANGE = 'TEXTCHANGE'
+export const DIFFTEXT = 'DIFFERENTTEXT'
